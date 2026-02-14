@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Brahm is currently a Data Analyst at the United Nations Development Programme (UNDP), supporting the Ministry of Health’s Biomedical and Genomic Science Initiative (BGSI) in Indonesia. Assigned by the UNDP to the National Infectious Disease Center–Sulianti Saroso Hospital Jakarta under the BGSI framework, he analyzes TB genomic sequencing data to strengthen drug-resistant TB diagnostics and enable precision treatment strategies that inform Indonesia’s National TB Program.
+Brahm is currently a Data Analyst at the United Nations Development Programme (UNDP), supporting the Ministry of Health’s [Biomedical and Genomic Science Initiative (BGSI)](https://bgsi.kemkes.go.id/en) in Indonesia. Assigned by the UNDP to the [National Infectious Disease Center–Sulianti Saroso Hospital Jakarta](https://suliantisarosohospital.com/) as one of the BGSI infectious disease hubs, he analyzes TB genomic sequencing data to strengthen drug-resistant TB diagnostics and enable precision treatment strategies that inform Indonesia’s National TB Program.
 
 He is physician by training and an applied public health practitioner and researcher, with focus on TB, HIV, and genomic medicine. He holds a MD from the medical school of Universitas Kristen Duta Wacana, Indonesia.
 
