@@ -15,36 +15,36 @@ cv:
       username: ""
 
   address:
-    street: ""
-    city: Jakarta
-    region: ""
-    postalCode: ""
-    countryCode: Indonesia
+    #street: ""
+    city: Jakarta, Indonesia
+    #region: ""
+    #postalCode: ""
+    #countryCode: ""
 
   sections:
     Education:
       - institution: Universitas Kristen Duta Wacana
         location: Yogyakarta, Indonesia
-        url: https://www.uzh.ch/
+        url: https://ukdw.ac.id/
         area: Medicine
         studyType: MD
         start_date: 2020
         end_date: 2021
-        score: ""
-        courses: ""
-        highlights:
-          - ""
-          - ""
+        #score: ""
+        #courses: ""
+        #highlights:
+          #- ""
+          #- ""
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - #institution: Eidgenössische Technische Hochschule
+        #location: Zurich, Switzerland
+        #area: Physics
+        #studyType: Federal teaching diploma
+        #start_date: 1896
+        #end_date: 1900
+        #highlights:
+          #- Description 1.
+          #- Description 2.
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
