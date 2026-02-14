@@ -27,11 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Links:
-  Email: [brahmastra.megasakti@undp.org](https://brahmastra.megasakti@undp.org)
-  ORCiD: [0000-0002-8386-8029](https://orcid.org/0000-0002-8386-8029)
-  Twitter: [@bmegasakti](https://x.com/bmegasakti)
-
 Brahm is currently a Data Analyst at the United Nations Development Programme (UNDP), supporting the Ministry of Health’s Biomedical and Genomic Science Initiative (BGSI) in Indonesia. Assigned by the UNDP to the National Infectious Disease Center–Sulianti Saroso Hospital Jakarta under the BGSI framework, he analyzes TB genomic sequencing data to strengthen drug-resistant TB diagnostics and enable precision treatment strategies that inform Indonesia’s National TB Program.
 
 He is physician by training and an applied public health practitioner and researcher, with focus on TB, HIV, and genomic medicine. He holds a MD from the medical school of Universitas Kristen Duta Wacana, Indonesia.
