@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Jakarta, Indonesia
+subtitle: Jakarta, Indonesia; <p>Meeting point: &#x1F4CD; Central Park</p>
 
 profile:
   align: right
