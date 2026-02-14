@@ -525,14 +525,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/brahmastra-megasakti/", "_blank");
+          window.open("https://www.linkedin.com/in/brahmastra-megasakti", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0000-0002-8386-8029", "_blank");
+          window.open("https://orcid.org/0000-0002-8386-8029", "_blank");
         },
       },{
       id: 'light-theme',
