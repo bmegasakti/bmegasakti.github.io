@@ -5,7 +5,6 @@ title: CV
 nav: true
 nav_order: 5
 ---
-You can download my CV here:  
-[Download PDF](/assets/pdf/Brahmastra_Megasakti_CV.pdf)
+Download [here](/assets/pdf/example_pdf.pdf)
 
-<iframe src="/assets/pdf/Brahmastra_Megasakti_CV.pdf" width="100%" height="900px"></iframe>
+<iframe src="/assets/pdf/example_pdf.pdf" width="100%" height="900px"></iframe>
