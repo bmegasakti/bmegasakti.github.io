@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-04-10'
 papers:
   -TgunR0AAAAJ:d1gkVwhDpl0C:
     citations: 0
@@ -10,6 +10,6 @@ papers:
     title: The Impact of GATA2 Expression and Methylation on Patients with Hirschsprung's Disease
     year: '2026'
   -TgunR0AAAAJ:u5HHmVD_uO8C:
-    citations: 0
+    citations: 1
     title: Cytomegalovirus infection impact on cholangitis in patients with biliary atresia following the Kasai procedure
     year: '2025'
