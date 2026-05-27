@@ -476,7 +476,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/brahmastra-megasakti", "_blank");
+          window.open("https://www.linkedin.com/in/brahmastramegasakti", "_blank");
         },
       },{
         id: 'social-orcid',
