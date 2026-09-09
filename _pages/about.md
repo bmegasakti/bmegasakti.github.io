@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Jakarta, Indonesia
+subtitle: Jakarta, Indonesia; Bay Area, California
 
 profile:
   align: right
