@@ -6,7 +6,7 @@ subtitle: Jakarta, Indonesia; Bay Area, California
 
 profile:
   align: right
-  image: prof_pic_2026.jpg
+  image: IMG_4410.PNG
   image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>555 your office number</p>
