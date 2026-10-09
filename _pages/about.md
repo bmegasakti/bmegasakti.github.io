@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "MPH student @ UC Berkeley | Previously: [UNDP](https://www.undp.org/indonesia/projects/health-governance-initiative-heart-project-undp-indonesia) / [BGSI](https://bgsi.kemkes.go.id/en) / [Indonesia MoH](https://www.kemkes.go.id/eng/home)"
+subtitle: 'MPH Student @ UC Berkeley | Previously: <a href="https://www.undp.org/indonesia/projects/health-governance-initiative-heart-project-undp-indonesia">UNDP</a> / <a href="https://bgsi.kemkes.go.id/en">BGSI</a> / <a href="https://www.kemkes.go.id/eng/home">Indonesia MoH</a>'
 
 profile:
   align: right
