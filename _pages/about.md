@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Jakarta, Indonesia; Bay Area, California
+subtitle: Physician | Infectious Disease Diagnostics | Public Health
 
 profile:
   align: right
@@ -29,6 +29,7 @@ latest_posts:
 
 Brahmastra Megasakti is a physician by training and an applied public health practitioner and researcher, with a focus on TB, HIV, and genomic medicine. He is currently pursuing graduate study in Infectious Diseases and Vaccinology MPH program at University of Califonia, Berkeley (2026/2028), and holds an MD from the medical school of Universitas Kristen Duta Wacana, Indonesia (2015/2021).
 
-He was formerly a Data Analyst at the United Nations Development Programme (UNDP), supporting the Ministry of Health’s [Biomedical and Genomic Science Initiative (BGSI)](https://bgsi.kemkes.go.id/en) in Indonesia. Assigned by the UNDP to one of the BGSI infectious disease hubs, the [National Infectious Disease Center–Prof. Dr. Sulianti Saroso Infectious Disease Hospital, Jakarta](https://suliantisarosohospital.com/), he analyzed TB genomic sequencing data to strengthen drug-resistant TB diagnostics and enable precision treatment strategies that inform Indonesia’s National TB Program.
+He was formerly a Data Analyst at the United Nations Development Programme (UNDP), supporting the Ministry of Health’s [Biomedical and Genomic Science Initiative (BGSI)](https://bgsi.kemkes.go.id/en) in Indonesia. Assigned by the UNDP to one of the BGSI infectious disease hubs, the [National Infectious Disease Center–Prof. Dr. Sulianti Saroso Infectious Disease Hospital, Jakarta](https://suliantisarosohospital.com/), he analyzed TB genomic sequencing data to strengthen drug-resistant TB diagnostics and enable precision treatment strategies that inform the diagnostic gap in Indonesia’s National TB Program.
 
-His work centers on the intersections between infectious disease diagnostics, precision medicine, and laboratory quality assurance. He previously supported Indonesia's National HIV Program in scaling up viral load testing and strengthening molecular diagnostic quality assurance in collaboration with NRL Australia. He has also contributed to advancing TB preventive treatments use through technical assistance to the National TB Program and during his clinical tenure as a physician in primary care setting.
+
+His work centers on the intersections between infectious disease diagnostics, precision medicine, and laboratory quality assurance. He previously supported Indonesia's National HIV Program in scaling up viral load testing to support the [UN's 95–95–95 HIV testing, treatment and viral suppression targets](https://doi.org/10.1371/journal.pone.0272405), and strengthening molecular diagnostic quality assurance in collaboration with [NRL Australia](https://www.nrlquality.org.au) to support viral load testing accuracy. He has also contributed to advancing TB preventive treatments use through technical assistance to the National TB Program and during his clinical tenure as a physician in primary care setting.
