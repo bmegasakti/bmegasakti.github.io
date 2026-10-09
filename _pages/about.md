@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physician | Infectious Disease Diagnostics | Public Health
+subtitle: MPH student @ UC Berkeley | Previously: [UNDP](https://www.undp.org/indonesia/projects/health-governance-initiative-heart-project-undp-indonesia) / [BGSI](https://bgsi.kemkes.go.id/en) / [Indonesia MoH](https://www.kemkes.go.id/eng/home)
 
 profile:
   align: right
